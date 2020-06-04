@@ -32,3 +32,4 @@ https://www.youtube.com/watch?v=vLnPwxZdW4Y
 https://www.youtube.com/watch?v=xNAD6cBKyaA
 
 ## Go
+https://www.youtube.com/watch?v=YS4e4q9oBaU
