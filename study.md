@@ -20,15 +20,15 @@ https://www.youtube.com/watch?v=JT80XhYJdBw
 https://www.youtube.com/watch?v=1Rs2ND1ryYc
 
 ## Html
+https://www.youtube.com/watch?v=pQN-pnXPaVg
+
+## C
 
 
-##C
+## C++
 
 
-##C++
+## Scala
 
 
-##Scala
-
-
-##Go
+## Go
