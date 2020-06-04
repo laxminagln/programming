@@ -13,8 +13,8 @@ https://www.youtube.com/watch?v=comQ1-x2a1Q
 ## Java
 https://www.youtube.com/watch?v=hBh_CC5y8-s
 
-##Django
-
+## Django
+https://www.youtube.com/watch?v=JT80XhYJdBw
 
 ##Css
 
