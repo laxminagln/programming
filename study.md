@@ -16,10 +16,10 @@ https://www.youtube.com/watch?v=hBh_CC5y8-s
 ## Django
 https://www.youtube.com/watch?v=JT80XhYJdBw
 
-##Css
+## Css
+https://www.youtube.com/watch?v=1Rs2ND1ryYc
 
-
-##Html
+## Html
 
 
 ##C
