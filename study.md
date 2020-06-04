@@ -10,8 +10,8 @@ https://www.youtube.com/watch?v=HXV3zeQKqGY
 ## Swift
 https://www.youtube.com/watch?v=comQ1-x2a1Q
 
-##Java
-
+## Java
+https://www.youtube.com/watch?v=hBh_CC5y8-s
 
 ##Django
 
