@@ -2,7 +2,7 @@
 https://www.youtube.com/watch?v=rfscVS0vtbw
 
 ##Javascript
-
+https://www.youtube.com/watch?v=Qqx_wzMmFeA
 
 ##Sql
 
