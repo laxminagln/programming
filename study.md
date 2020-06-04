@@ -29,6 +29,6 @@ https://www.youtube.com/watch?v=KJgsSFOSQv0
 https://www.youtube.com/watch?v=vLnPwxZdW4Y
 
 ## Scala
-
+https://www.youtube.com/watch?v=xNAD6cBKyaA
 
 ## Go
