@@ -42,3 +42,9 @@ https://www.youtube.com/watch?v=OK_JCtrrv-c
 
 ## obj-C
 https://www.youtube.com/watch?v=5esQqZIJ83g
+
+## Ruby
+https://www.youtube.com/watch?v=t_ispmWmdjY
+
+## Kotlin
+https://www.youtube.com/watch?v=F9UC9DY-vIU
