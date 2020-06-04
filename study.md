@@ -36,3 +36,9 @@ https://www.youtube.com/watch?v=YS4e4q9oBaU
 
 ## C#
 https://www.youtube.com/watch?v=GhQdlIFylQ8
+
+## php
+https://www.youtube.com/watch?v=OK_JCtrrv-c
+
+## obj-C
+https://www.youtube.com/watch?v=5esQqZIJ83g
