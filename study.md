@@ -1,11 +1,11 @@
-##Python
+## Python
 https://www.youtube.com/watch?v=rfscVS0vtbw
 
-##Javascript
+## Javascript
 https://www.youtube.com/watch?v=Qqx_wzMmFeA
 
-##Sql
-
+## Sql
+https://www.youtube.com/watch?v=HXV3zeQKqGY
 
 ##Swift
 
